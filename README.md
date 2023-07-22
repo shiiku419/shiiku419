@@ -2,7 +2,7 @@
 
 # 👀 About Me
 - 📚 I’m a student of **Shizuoka University**
-- 🌱 I’m currently learning **MachineLearning**
+- 🌱 I’m currently learning **Reinforcement Learning**
 - 💻 I’m working at **Metadata Inc.** as an intern 
 - ⚡ Fun fact: **Basketball**
 
